@@ -8,3 +8,4 @@ Here are some ideas to get you started:
 - Que tal! Mi nombre es Cristian Ariel Pérez Rodríguez y como vieron en mi bibliografia soy estudiante del Instituto Tenologico de Tlajomulco. Mi numero de control es "22940371".
 
 -->
+- Que tal! Mi nombre es Cristian Ariel Pérez Rodríguez y como vieron en mi bibliografia soy estudiante del Instituto Tenologico de Tlajomulco. Mi numero de control es "22940371".
